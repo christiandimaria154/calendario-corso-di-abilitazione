@@ -74,13 +74,14 @@ DESCRIPTION:https://eventiunito.webex.com/eventiunito-it/j.php?MTID=m34ec9e81b88
 END:VEVENT
 
 BEGIN:VEVENT
-UID:36cfu-005@chatgpt.local
-SUMMARY:Pedagogia della relazione educativa e formativa (E. Madrussan)
-DTSTART;TZID=Europe/Rome:20250523T150000
-DTEND;TZID=Europe/Rome:20250523T200000
+UID:36cfu-008@chatgpt.local
+SUMMARY:Didattica delle Lingue moderne - CLIL (Corino)
+DTSTART;TZID=Europe/Rome:20250524T100000
+DTEND;TZID=Europe/Rome:20250524T150000
 LOCATION:via Verdi 25, Torino
 DESCRIPTION:https://eventiunito.webex.com/eventiunito-it/j.php?MTID=m34ec9e81b88ef0bb46f319ecc955b7a9
 END:VEVENT
+
 
 BEGIN:VEVENT
 UID:36cfu-006@chatgpt.local
