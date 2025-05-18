@@ -1,34 +1,94 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
+
 BEGIN:VEVENT
 SUMMARY:DIDATTICA DEGLI ALGORITMI E DELLA PROGRAMMAZIONE 1
 DTSTART;TZID=Europe/Rome:20250523T143000
 DTEND;TZID=Europe/Rome:20250523T193000
 LOCATION:Aula A1 Berti Pichat - viale Berti Pichat 6-6/2
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:DIDATTICA DEGLI ALGORITMI E DELLA PROGRAMMAZIONE 2 – 1
 DTSTART;TZID=Europe/Rome:20250525T143000
 DTEND;TZID=Europe/Rome:20250525T193000
 LOCATION:Aula B Belmeloro - via Beniamino Andreatta 8
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:DIDATTICA DEGLI ALGORITMI E DELLA PROGRAMMAZIONE 2 – 2
 DTSTART;TZID=Europe/Rome:20250529T143000
 DTEND;TZID=Europe/Rome:20250529T193000
 LOCATION:Aula B Ranzani - Via Ranzani 14/B
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:DIDATTICA DELLE RETI E DEI SISTEMI – 1
 DTSTART;TZID=Europe/Rome:20250531T083000
 DTEND;TZID=Europe/Rome:20250531T133000
 LOCATION:Aula A Belmeloro - via Beniamino Andreatta 8
 END:VEVENT
+
 BEGIN:VEVENT
 SUMMARY:DIDATTICA DEGLI ALGORITMI E DELLA PROGRAMMAZIONE 2 – 1 (replica)
 DTSTART;TZID=Europe/Rome:20250531T143000
 DTEND;TZID=Europe/Rome:20250531T193000
 LOCATION:Aula B Belmeloro - via Beniamino Andreatta 8
 END:VEVENT
+
+BEGIN:VEVENT
+UID:36cfu-001@chatgpt.local
+SUMMARY:Funzione docente e gestione dell'aula (Zamengo)
+DTSTART;TZID=Europe/Rome:20250519T150000
+DTEND;TZID=Europe/Rome:20250519T200000
+LOCATION:via Verdi 25, Torino
+DESCRIPTION:https://eventiunito.webex.com/eventiunito-it/j.php?MTID=m34ec9e81b88ef0bb46f319ecc955b7a9
+END:VEVENT
+
+BEGIN:VEVENT
+UID:36cfu-002@chatgpt.local
+SUMMARY:Tecniche e strumenti di valutazione degli apprendimenti (Trinchero)
+DTSTART;TZID=Europe/Rome:20250520T150000
+DTEND;TZID=Europe/Rome:20250520T200000
+LOCATION:via Verdi 25, Torino
+DESCRIPTION:https://eventiunito.webex.com/eventiunito-it/j.php?MTID=m34ec9e81b88ef0bb46f319ecc955b7a9
+END:VEVENT
+
+BEGIN:VEVENT
+UID:36cfu-003@chatgpt.local
+SUMMARY:Funzione docente: competenze, deontologia professionale e giustizia educativa (E. Guarcello)
+DTSTART;TZID=Europe/Rome:20250521T150000
+DTEND;TZID=Europe/Rome:20250521T200000
+LOCATION:via Verdi 25, Torino
+DESCRIPTION:https://eventiunito.webex.com/eventiunito-it/j.php?MTID=m34ec9e81b88ef0bb46f319ecc955b7a9
+END:VEVENT
+
+BEGIN:VEVENT
+UID:36cfu-004@chatgpt.local
+SUMMARY:Didattica orientativa (Ricchiardi)
+DTSTART;TZID=Europe/Rome:20250522T150000
+DTEND;TZID=Europe/Rome:20250522T200000
+LOCATION:via Verdi 25, Torino
+DESCRIPTION:https://eventiunito.webex.com/eventiunito-it/j.php?MTID=m34ec9e81b88ef0bb46f319ecc955b7a9
+END:VEVENT
+
+BEGIN:VEVENT
+UID:36cfu-005@chatgpt.local
+SUMMARY:Pedagogia della relazione educativa e formativa (E. Madrussan)
+DTSTART;TZID=Europe/Rome:20250523T150000
+DTEND;TZID=Europe/Rome:20250523T200000
+LOCATION:via Verdi 25, Torino
+DESCRIPTION:https://eventiunito.webex.com/eventiunito-it/j.php?MTID=m34ec9e81b88ef0bb46f319ecc955b7a9
+END:VEVENT
+
+BEGIN:VEVENT
+UID:36cfu-006@chatgpt.local
+SUMMARY:Tecnologie dell'istruzione (Talarico)
+DTSTART;TZID=Europe/Rome:20250524T150000
+DTEND;TZID=Europe/Rome:20250524T200000
+LOCATION:via Verdi 25, Torino
+DESCRIPTION:https://eventiunito.webex.com/eventiunito-it/j.php?MTID=m34ec9e81b88ef0bb46f319ecc955b7a9
+END:VEVENT
+
 END:VCALENDAR
